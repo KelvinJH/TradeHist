@@ -1,5 +1,6 @@
 config.py
 goog_secretclient.json
+chromedriver
 *.exe
 *.rtf
 *.txt
