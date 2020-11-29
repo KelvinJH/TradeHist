@@ -10,7 +10,7 @@ Project meant to help with quality of life and tracking progress.
 
  -[Description](#description)
 
- -[Goals/Task](#goals/tasks)
+ -[Goals/Tasks](#goals/tasks)
 
 ---
 
