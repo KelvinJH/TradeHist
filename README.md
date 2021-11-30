@@ -37,7 +37,6 @@ TradeHist was made to automate the tracking process of options trading. TradeHis
 
  - Locate/Generate Sheet(In correct format)
  - Implement Google Drive OAuth
- - Write function for different/special trading techniques
  - Implement UI for both OAuth
 ---
 ## Disclaimer

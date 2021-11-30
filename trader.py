@@ -1,10 +1,8 @@
 from tda import auth, client
 import json
-import config
 from datetime import datetime, date
 from pprint import pprint
-from report import Writer
-
+from sheetsHelper import Writer
 
 
 googSheets = Writer()
